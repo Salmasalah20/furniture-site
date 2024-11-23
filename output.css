@@ -789,14 +789,6 @@ video {
   background-color: rgb(24 24 27 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/sofa-green-living-room-with-copy-space\.jpg\'\)\] {
-  background-image: url('../sofa-green-living-room-with-copy-space.jpg');
-}
-
-.bg-\[url\(\'\/sofa-green-living-room-with-copy-space\.jpg\'\)\] {
-  background-image: url('/sofa-green-living-room-with-copy-space.jpg');
-}
-
 .bg-\[url\(\'\.\/img\/sofa-green-living-room-with-copy-space\.jpg\'\)\] {
   background-image: url('./img/sofa-green-living-room-with-copy-space.jpg');
 }
